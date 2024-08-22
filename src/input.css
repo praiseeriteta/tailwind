@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+    .gskills-color{
+        color: rgb(31, 180, 76);
+    }
